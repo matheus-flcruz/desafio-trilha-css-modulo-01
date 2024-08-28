@@ -13,3 +13,4 @@ Esse projeto foi focado nos conteúdos do primeiro módulo da **Trilha de CSS**,
 
 ## Link
 
+<a href="https://matheus-flcruz.github.io/desafio-trilha-css-modulo-01/">Link para visualizar o projeto</a>
